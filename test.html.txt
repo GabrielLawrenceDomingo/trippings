@@ -1,3 +1,0 @@
-<h1>Hello, my name is Gab</h1>
-<img src="IMG.jpg" width="200"/>
-<p>"porman, pormahan kuna yung kapatid mo"</p>
